@@ -2,10 +2,6 @@
 require_once(__DIR__ . "/../db/db.php");
 class BookEntity
 {
-    public $id;
-    public $title;
-    public $release_date;
-    public $authors;
     private $db;
     private $conn;
 
