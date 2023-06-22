@@ -1,0 +1,13 @@
+Creare un sito web di una biblioteca online.
+Il menù è così composto:
+
+- Pagina principale
+Contiene gli ultimi volumi in ordine cronologico di acquisizione. OK
+Premendo sul singolo volume verrà aperta la pagina di dettaglio del singolo volume. - OK
+
+- Ricerca
+Contiene un modulo di ricerca dei libri per autore o titolo. OK
+Premendo sul singolo volume verrà aperta la pagina di dettaglio del singolo volume. OK
+
+I volumi dovranno essere archiviate in un DB appositamente organizzato.
+Il sito web dovrà essere one page.
